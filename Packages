@@ -1,0 +1,30 @@
+Package: com.captinc.batchomatic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 4rtz1z
+Depends: mobilesubstrate
+Filename: ./debs/com.captinc.batchomatic.deb
+Size: 88752
+MD5sum: 9602454181224F394B82D426EC88AF4B
+SHA1: 27A2749A4A41BC14A741B003EBECC5CB7113C11E
+SHA256: 893DEA53F9FA9F2B847B66799CA39CC1402C1E351E1649AB73BF4B84A30E5DC4
+Section: Tweaks
+Description: Batch-o-matic
+Author: 4rtz1z
+Name: Batch-o-matic
+
+Package: me.nepeta.relocatereborn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 4rtz1z
+Depends: mobilesubstrate
+Filename: ./debs/me.nepeta.relocatereborn.deb
+Size: 88752
+MD5sum: 8DB6630D676E23891DBE740735ED12B0
+SHA1: FFC0A90C8AAA705E80005C1FE8F4EE958859300B
+SHA256: 593A709266B172D1DB8AFE9C8DFAE899035B7E8FF58F524189AAD0064A446B5F
+Section: Tweaks
+Description: Relocate
+Author: 4rtz1z
+Name: Relocate
+
